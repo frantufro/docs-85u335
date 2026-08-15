@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-qke03f.indocuan.online/sitemap.xml
